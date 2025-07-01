@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  background-color: #000;
+  color: #0f0;
+  font-family: monospace;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.terminal {
+  width: 90%;
+  max-width: 800px;
+  height: 80vh;
+  background-color: #111;
+  border: 2px solid #0f0;
+  padding: 20px;
+  overflow-y: auto;
+  box-shadow: 0 0 15px #0f0;
+  position: relative;
+}
+
+.input-line {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.input-line span {
+  margin-right: 10px;
+}
+
+#commandInput {
+  background: none;
+  border: none;
+  outline: none;
+  color: #0f0;
+  font: inherit;
+  flex-grow: 1;
+}
+
+#output div {
+  line-height: 1.4em;
+  margin-bottom: 5px;
+}
