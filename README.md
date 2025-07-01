@@ -3,13 +3,6 @@
 A realistic hacker-style terminal built using HTML, CSS, and JavaScript.  
 It supports command input, history navigation, a typewriter effect, and a secret unlock sequence (`open_sesame`).
 
-## Features
-- Terminal-style UI with blinking cursor
-- Command history (↑ / ↓)
-- Typewriter-style text output
-- Secret command unlock (`open_sesame`) that changes the environment
-- No frameworks used, fully custom built
-
 ## Available Commands
 | Command       | Description                                  |
 |---------------|----------------------------------------------|
