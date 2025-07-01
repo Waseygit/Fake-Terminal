@@ -1,2 +1,2 @@
-# Fake-Terminal
-A fake terminal built with HTML, CSS, and JavaScript. Supports custom commands, typewriter effect, command history, and a secret unlock (open_sesame).
+A fully functional fake terminal built using just HTML, CSS, and JavaScript. Simulates a command line interface with typing effects, command history, and a unlock trigger (open_sesame). 
+USE COMMANDS: help , whoami, , status , unlock , clear , open_sesame
