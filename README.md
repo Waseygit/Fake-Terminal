@@ -1,6 +1,6 @@
 # Fake Terminal Web App
 
-A realistic hacker-style terminal built using HTML, CSS, and JavaScript.  
+A realistic hacker style terminal built using HTML, CSS, and JavaScript.  
 It supports command input, history navigation, a typewriter effect, and a secret unlock sequence (`open_sesame`).
 
 ## Available Commands
